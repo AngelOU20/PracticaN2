@@ -14,10 +14,10 @@ namespace PracticaN2.Models
 
         
         public string Apellido{get;set;}
-        
+
         public string Motivo{get;set;}
 
-        
+        [Required]
         public string Mensaje{get;set;}
     }
 }
