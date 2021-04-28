@@ -49,7 +49,7 @@ namespace PracticaN2.Controllers
             return View();
         }
 
-        public IActionResult Registro()
+        public IActionResult IniciarSesion()
         {
             return View();
         }
